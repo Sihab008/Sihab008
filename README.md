@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sihab Saharier</h1>
 <h3 align="center">A passionate Mobial app developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Flatter,Dart**
+- 🌱 I’m currently learning **Flutter,Dart**
 
 - 📫 How to reach me **learbrad10@gmail.com**
 
